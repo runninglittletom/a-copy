@@ -17,7 +17,7 @@ Learn more at [GoGoCode.io](https://gogocode.io) and [GoGoCode: Yet Another Auto
 
 ## Intro
 
-Let's show you how to select and modify code with our API Look you did it !
+Let's show you how to select and modify code with our API 
 
 ### In
 
