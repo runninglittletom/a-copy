@@ -5,6 +5,7 @@
 
 ## What is GoGoCode? do you konw ??
 
+
 [中文 README](README-cn.md)
 
 GoGoCode is a transformer for JavaScript/Typescript/HTML based on AST but providing an intuitive API:
@@ -16,7 +17,7 @@ Learn more at [GoGoCode.io](https://gogocode.io) and [GoGoCode: Yet Another Auto
 
 ## Intro
 
-Let's show you how to select and modify code with our API
+Let's show you how to select and modify code with our API Look you did it !
 
 ### In
 
